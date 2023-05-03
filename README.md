@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# Desafio Devops2 Alura
 
-Rápida descrição do objetivo de fazer esse projeto
+Repositório para resolver o Desafio Devops2 da Alura
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Desafio Devops2 Alura **
+| :label: Tecnologias | java, Springboot
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
